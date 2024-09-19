@@ -1,5 +1,5 @@
 
-# Unity3D Terrain Height Blending Shader
+# Height Blending Shader
 
 This project contains a simple height blending shader created using Shader Graph and an accompanying script. These files help seamlessly integrate objects with the terrain based on their height.
 
@@ -18,6 +18,10 @@ This project contains a simple height blending shader created using Shader Graph
 
 - **Shader**: The shader that performs the height blending.
 - **Script**: The script that passes the height data to the shader and uses **MaterialPropertyBlock** for optimized performance.
+
+## Compatibility
+
+This shader is designed for Unity's Universal Render Pipeline (URP).
 
 ## License
 
