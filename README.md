@@ -18,3 +18,7 @@ This project contains a simple height blending shader created using Shader Graph
 
 - **Shader**: The shader that performs the height blending.
 - **Script**: The script that passes the height data to the shader and uses **MaterialPropertyBlock** for optimized performance.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
